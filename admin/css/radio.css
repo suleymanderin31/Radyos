@@ -1,0 +1,554 @@
+/* Standart CSS ver 2.0    */
+/* W3C OK                  */
+/* Sadece IE 5.0 ve �st�   */
+/* Knocx Multimedia        */
+
+
+Body 
+
+{
+
+background-color:#FFFFFF;
+FONT-FAMILY: Arial, verdana, helvetica, tahoma, Comic Sans MS, sans-serif;
+COLOR:#000033;
+FONT-SIZE:10px;
+
+
+}
+
+
+
+/********************************************************/
+
+Table 
+
+{
+
+padding:0px;
+margin:0px;
+border-collapse:collapse;
+
+}
+
+/********************************************************/
+ 
+P, TD, DIV 
+
+{
+
+
+margin:0px;
+FONT-FAMILY: Arial, verdana, helvetica, tahoma, Comic Sans MS, sans-serif;
+FONT-SIZE:11px;
+
+
+} 
+
+
+/********************************************************/
+
+A 
+
+{
+
+FONT-FAMILY:Arial, verdana, helvetica, tahoma, Comic Sans MS, sans-serif;
+TEXT-DECORATION:underline;
+COLOR:#000099;
+
+
+} 
+
+/********************************************************/
+
+
+A:link 
+
+{
+
+TEXT-DECORATION:none;
+COLOR:#003399;
+
+} 
+
+/********************************************************/
+
+A:Visited 
+
+{
+
+TEXT-DECORATION:none;
+COLOR:#003399;
+
+} 
+
+/********************************************************/
+
+
+A:hover 
+
+{
+
+TEXT-DECORATION:underline;
+COLOR:#003399;
+
+} 
+
+/********************************************************/
+
+
+
+ 
+.Mavi3DTD 
+
+{
+
+background-color:#88A4C8;
+font-family: Arial, verdana, helvetica, tahoma, Comic Sans MS, sans-serif;
+color:#EFEFEF;
+font-size:12px;
+font-weight:bold;
+padding:2px;
+border:2px groove #99CCFF;
+
+} 
+
+
+/********************************************************/
+/********************************************************/
+
+.FrameGriTD 
+
+{
+
+background-color:#DEDEDE;
+font-family: Arial, verdana, helvetica, tahoma, Comic Sans MS, sans-serif;
+color:#333333;
+font-size:11px;
+padding:3px;
+border:2px groove #EFEFEF;
+
+
+}
+
+.FrameGriTD A:link 
+
+{
+
+TEXT-DECORATION:none;
+COLOR:#003399;
+
+} 
+
+
+.FrameGriTD A:Visited 
+
+{
+
+TEXT-DECORATION:none;
+COLOR:#003399;
+
+} 
+
+
+.FrameGriTD A:hover 
+
+{
+
+TEXT-DECORATION:underline;
+COLOR:#003399;
+
+} 
+
+
+
+/********************************************************/
+/********************************************************/
+
+.SilikGriTD 
+
+{
+
+background-color:#EFEFEF;
+font-family: Arial, verdana, helvetica, tahoma, Comic Sans MS, sans-serif;
+color:#333333;
+font-size:11px;
+font-weight:bold;
+padding:3px;
+border:1px solid #DEDEDE;
+
+}
+
+.SilikGriTD A:link 
+
+{
+
+TEXT-DECORATION:none;
+COLOR:#003399;
+
+} 
+
+
+.SilikGriTD A:Visited 
+
+{
+
+TEXT-DECORATION:none;
+COLOR:#003399;
+
+} 
+
+
+.SilikGriTD A:hover 
+
+{
+
+TEXT-DECORATION:underline;
+COLOR:#003399;
+
+} 
+
+
+
+
+/********************************************************/
+/********************************************************/
+
+.SilikYesilTD 
+
+{
+
+background-color:#E1FEDD;
+font-family: Arial, verdana, helvetica, tahoma, Comic Sans MS, sans-serif;
+color:#222222;
+font-size:11px;
+font-weight:bold;
+padding:3px;
+border:1px solid #DEDEDE;
+
+}
+
+.SilikMaviTD 
+
+{
+
+background-color:#B8D0F8;
+font-family: Arial, verdana, helvetica, tahoma, Comic Sans MS, sans-serif;
+color:#222222;
+font-size:11px;
+font-weight:bold;
+padding:3px;
+border:1px solid #DEDEDE;
+
+}
+
+.SilikGriTD A:link 
+
+{
+
+TEXT-DECORATION:none;
+COLOR:#003399;
+
+} 
+
+
+.SilikGriTD A:Visited 
+
+{
+
+TEXT-DECORATION:none;
+COLOR:#003399;
+
+} 
+
+
+.SilikGriTD A:hover 
+
+{
+
+TEXT-DECORATION:underline;
+COLOR:#003399;
+
+} 
+
+
+
+
+
+
+/****************************************************/
+
+.BeyazGriTD 
+
+{
+
+background-color:#FFFFFF;
+font-family: Arial, verdana, helvetica, tahoma, Comic Sans MS, sans-serif;
+color:#333333;
+font-size:11px;
+font-weight:bold;
+padding:3px;
+border:1px solid #DEDEDE;
+
+}
+
+.BeyazGriTD A:link 
+
+{
+
+TEXT-DECORATION:none;
+COLOR:#003399;
+
+} 
+
+
+.BeyazGriTD A:Visited 
+
+{
+
+TEXT-DECORATION:none;
+COLOR:#003399;
+
+} 
+
+
+.BeyazGriTD A:hover 
+
+{
+
+TEXT-DECORATION:underline;
+COLOR:#003399;
+
+} 
+
+
+
+/********************************************************/
+ 
+.SilikGriTDover 
+
+{
+
+background-color:#DEDEDE;
+font-family: Arial, verdana, helvetica, tahoma, Comic Sans MS, sans-serif;
+color:#333333;
+font-size:11px;
+font-weight:bold;
+padding:3px;
+border:1px solid #DEDEDE;
+
+} 
+
+
+/********************************************************/
+
+.Gri3DTD 
+
+{
+
+background-color:#999999;
+font-family:  Arial,verdana, helvetica, tahoma, Comic Sans MS, sans-serif;
+color:#FFFFFF;
+font-size:11px;
+font-weight:bold;
+padding:3px;
+border:2px groove #cccccc;
+
+} 
+
+.Gri3DTD A:link 
+
+{
+
+TEXT-DECORATION:none;
+COLOR:#FFFFFF;
+
+} 
+
+
+.Gri3DTD A:Visited 
+
+{
+
+TEXT-DECORATION:none;
+COLOR:#FFFFFF;
+
+} 
+
+
+.Gri3DTD A:hover 
+
+{
+
+TEXT-DECORATION:none;
+COLOR:#003399;
+
+}
+
+ 
+/********************************************************/
+
+
+
+FORM 
+{
+display:inline;
+}
+
+
+/********************************************************/
+
+
+.inputtext
+{
+height: 21px;
+FONT-FAMILY: Arial, verdana, helvetica, tahoma, Comic Sans MS, sans-serif;
+FONT-SIZE:11px;
+COLOR:#333333;
+BACKGROUND-COLOR:#EFEFEF;
+border:1px solid #666666;
+
+} 
+
+/********************************************************/
+
+
+.Genistext
+{
+
+width: 751px;
+FONT-FAMILY: Arial, verdana, helvetica, tahoma, Comic Sans MS, sans-serif;
+FONT-SIZE:11px;
+COLOR:#333333;
+BACKGROUND-COLOR:#EFEFEF;
+border:1px solid #666666;
+
+} 
+
+/********************************************************/
+
+
+/*
+select
+
+
+{
+
+FONT-FAMILY: Arial, verdana, helvetica, tahoma, Comic Sans MS, sans-serif;
+FONT-SIZE:11px;
+COLOR:#333333;
+BACKGROUND-COLOR:#EFEFEF;
+border:1px solid #666666;
+
+} 
+
+*/
+
+
+
+/********************************************************/
+
+
+.ButtonFormat 
+{
+width: 80px;
+height: 20px;
+background:#999999;
+font-family: Arial, verdana, helvetica, tahoma, Comic Sans MS, sans-serif;
+color:#EFEFEF;
+font-size:11px;
+font-weight:bold;
+border:2px groove #FFFFFF;
+}
+.comTrwarning
+{
+	font-family: Arial, verdana, helvetica, tahoma, Comic Sans MS, sans-serif;
+	font-size:16px;
+	padding-left:5px;
+}
+
+.style1 {
+	color: #6c6969;
+	font-weight: bold;
+}
+.style3 {color: #730707}
+.style6 {color: #0D843D}
+body {
+	margin-top: 1px;
+}
+.navLink{
+	color: #0066FF;
+	font-weight: bold;
+}
+.style7 {
+	color: #990000;
+	font-weight: bold;
+}
+.style8 {color: #990000}
+.style9 {
+ color: #003399;
+ font-weight: bold;
+}
+body { font: normal  verdana; }
+
+ul#primary-nav,
+ul#primary-nav ul {
+	margin: 0;
+	padding: 0;
+	width: 150px; /* Width of Menu Items */
+	border-bottom: 1px solid #ccc;
+	background: #fff; /* IE6 Bug */
+	font-size: 100%;
+	}
+
+ul#primary-nav li {
+	position: relative;
+	list-style: none;
+	}
+
+ul#primary-nav li a {
+	display: block;
+	text-decoration: none;
+	color: #777;
+	padding: 5px;
+	border: 1px solid #ccc;
+	border-bottom: 0;
+	}
+
+/* Fix IE. Hide from IE Mac \*/
+* html ul#primary-nav li { float: left; height: 1%; }
+* html ul#primary-nav li a { height: 1%; }
+/* End */
+
+ul#primary-nav ul {
+	position: absolute;
+	display: none;
+	left: 149px; 
+	top: 0;
+	}
+
+ul#primary-nav li ul li a { padding: 2px 5px; } 
+
+ul#primary-nav li:hover ul ul,
+ul#primary-nav li:hover ul ul ul,
+ul#primary-nav li.over ul ul,
+ul#primary-nav li.over ul ul ul { display: none; }
+
+ul#primary-nav li:hover ul,
+ul#primary-nav li li:hover ul,
+ul#primary-nav li li li:hover ul,
+ul#primary-nav li.over ul,
+ul#primary-nav li li.over ul,
+ul#primary-nav li li li.over ul { display: block; } 
+
+ul#primary-nav li.menubar { background: transparent url(../img/arrow.gif) right center no-repeat; }
+
+ul#primary-nav li.menubar:hover,
+ul#primary-nav li.over { background-color: #f9f9f9; }
+
+ul#primary-nav li a:hover { color: #E2144A; }
+.hata{color:#FF0000;
+font-family:Tahoma;
+size:2px;}
+.bilgi{color:#009900;
+font-family:Tahoma;
+size:3px;}
